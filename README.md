@@ -730,8 +730,6 @@ plt.show()
 ![png](output_32_0.png)
     
 
+## Reference
+This output was based on the youtube tutorial of [Data Tutorials](https://www.youtube.com/watch?v=k4CR3J8-420&t=12s)
 
-
-```python
-
-```
